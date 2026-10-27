@@ -1,0 +1,2 @@
+- pass through cell iteration to look for some early returns, try to gain some fps on my potato pc
+- benchmark performances/ cost to extract the state from wasm to the client
